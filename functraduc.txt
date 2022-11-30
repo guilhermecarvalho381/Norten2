@@ -1,0 +1,13 @@
+----Cadastro do Funcionario, Guilherme------
+Nome:Guilherme
+CPF:51627078413
+Email:gui@email.com
+Telefone:11963244745
+Endereco:casalogradouro
+
+----Cadastro do Funcionario, Aluno------
+Nome:Aluno
+CPF:123
+Email:alunoemail
+Telefone:789456
+Endereco:casadoaluno

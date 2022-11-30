@@ -1,0 +1,9 @@
+----Cadastro do Professor, Beatriz, Curso: Historia------
+Nome:Beatriz
+CPF:123
+Email:bia@email.com
+Telefone:456489
+Endereco:ruadabia
+Genero:Feminino
+Idade:29
+Curso Selecionado:Historia

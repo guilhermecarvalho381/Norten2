@@ -1,0 +1,39 @@
+----Cadastro do Aluno, Aluno, Cpf: 123------
+Nome:Aluno
+CPF:123
+Email:alunoemail
+Telefone:telefone
+Endereco:casadoaluno
+Genero:nb
+Idade:12
+Curso Selecionado:Matematica
+
+----Cadastro do Aluno, Nome do Aluno, Cpf: 000.000.000/00------
+Nome:Nome do Aluno
+CPF:000.000.000/00
+Email:Aluno@email.com
+Telefone:00 0000-0000
+Endereco:Logradouro,0,Bairro,Cidade
+Genero:Nao Binario
+Idade:27
+Curso Selecionado:Curso
+
+----Cadastro do Aluno, Vinicius Galli, Cpf: 12345678945------
+Nome:Vinicius Galli
+CPF:12345678945
+Email:vinigalli21@gmail.com
+Telefone:119000-0000
+Endereco:Rua das orquideas, barril, 12
+Genero:Masculino
+Idade:21
+Curso Selecionado:TI
+
+----Cadastro do Aluno, Marcela Castiel, Cpf: 78945612300------
+Nome:Marcela Castiel
+CPF:78945612300
+Email:marcelacastiel@gmail.com
+Telefone:11904512345
+Endereco:domo de nos todos, sao bernardo
+Genero:Feminino
+Idade:20
+Curso Selecionado:Odontologia
